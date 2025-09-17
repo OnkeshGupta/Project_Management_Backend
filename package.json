@@ -1,0 +1,19 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "a project management system ",
+  "keywords": [
+    "API",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "onkesh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
